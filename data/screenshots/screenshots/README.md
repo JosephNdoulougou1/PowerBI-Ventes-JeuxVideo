@@ -4,7 +4,7 @@ Documentation des pages disponibles dans le tableau de bord Power BI "Analyse de
 
 ---
 
-## 📍 Page 1 — Vue d'Ensemble (Overview)
+## 📍 Page 1 - Vue d'Ensemble (Overview)
 
 ### Description
 Page d'accueil du tableau de bord offrant une vue globale des performances commerciales de la période sélectionnée.
@@ -42,7 +42,7 @@ Page d'accueil du tableau de bord offrant une vue globale des performances comme
 
 ---
 
-## 📍 Page 2 — Analyse par Catégorie & Année
+## 📍 Page 2 - Analyse par Catégorie & Année
 
 ### Description
 Page détaillée permettant l'analyse des ventes par catégories de produits et compétence temporelle (année).
